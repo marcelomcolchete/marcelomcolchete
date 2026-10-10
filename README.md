@@ -26,6 +26,7 @@ Software engineer at **Mercado Livre**, building backend systems for **Mercado P
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**SimClin**](https://simclin.vercel.app/) | Primary-care consultation simulator for medical students: talk to AI-played patients, order exams, and get a structured SOAP evaluation | Next.js · React · Supabase · Claude API |
 | [**Dr. Pedro Fernandes**](https://vetpedrofernandes.com.br/) | Landing page for an at-home veterinarian, built to turn visits into WhatsApp bookings. Lighthouse 100 on Accessibility, Best Practices and SEO | HTML · CSS · JavaScript · Vercel |
 | [**Mercado Marla**](https://marla-market.vercel.app/) | Site for a grocery store and bakery in Nova Friburgo (RJ), optimized for local search with schema.org structured data | HTML · CSS · Vercel |
 
