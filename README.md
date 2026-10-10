@@ -29,6 +29,16 @@ Software engineer at **Mercado Livre**, building backend systems for **Mercado P
 | [**Dr. Pedro Fernandes**](https://vetpedrofernandes.com.br/) | Landing page for an at-home veterinarian, built to turn visits into WhatsApp bookings. Lighthouse 100 on Accessibility, Best Practices and SEO | HTML · CSS · JavaScript · Vercel |
 | [**Mercado Marla**](https://marla-market.vercel.app/) | Site for a grocery store and bakery in Nova Friburgo (RJ), optimized for local search with schema.org structured data | HTML · CSS · Vercel |
 
+#### 📚 Study & college projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Deep Investing**](https://github.com/marcelomcolchete/Deep_Investing) | College project applying data science to stock market data | Python · Django |
+| [**Operations Research Tool**](https://github.com/marcelomcolchete/Ferramenta_pesquisa_operacional) | Web tool for operations research classes at UFSJ, with graphical-method and Simplex solvers | Python · Django |
+| [**Missionaries and Cannibals**](https://github.com/marcelomcolchete/Problema_missionarios_canibais_ia_python) | The classic river-crossing puzzle solved with AI search algorithms | Python |
+| [**Alura Flix Backend**](https://github.com/marcelomcolchete/Alura_Flix_Backend) | REST API built through Alura's backend challenge | Java · Spring Boot |
+| [**Data Science (Alura)**](https://github.com/marcelomcolchete/Projeto_ciencia_dados_alura) | Final project from Alura's data science course | Python · Jupyter |
+
 ### 🧰 Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
