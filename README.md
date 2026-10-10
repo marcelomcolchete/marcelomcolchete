@@ -5,7 +5,7 @@ Software engineer at **Mercado Livre**, building backend systems for **Mercado P
 - ☕ Mostly **Java + Spring**, with **Go** and **Node.js** when the problem calls for it. Microservices, event-driven flows and a healthy obsession with **observability**.
 - 🏗️ At work I own the ERP side of Point: inventory, billing and terminal lifecycle, running on Mercado Libre's internal cloud platform (AWS + GCP underneath).
 - 🚀 After hours I build my own stuff: **web apps** like an AI-powered medical training simulator, **websites** for small businesses, and **games**. They all start as "just a prototype" and somehow end up with a test suite.
-- 🤖 Daily user of AI coding tools (Claude Code, Codex), and I like putting LLMs *inside* things, like suspects you can actually interrogate.
+- 🤖 Daily user of AI coding tools (Claude Code, Codex), and I like putting LLMs *inside* things, like patients you can examine or suspects you can interrogate.
 - 🗣️ Português · Español · English
 
 ### 🛠️ Side projects
